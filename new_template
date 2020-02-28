@@ -1,0 +1,481 @@
+
+<!--<!DOCTYPE HTML PUBLIC
+
+  "-//W3C//DTD HTML 4.01 Transitional//EN"
+
+  "http://www.w3.org/TR/html4/loose.dtd"
+
+> -->
+
+
+<HTML LANG="en">
+
+<HEAD>
+
+<!--<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no, target-densitydpi=device-dpi""/> -->
+
+<meta name=�keywords� content=� Chen Wang|Homepage|HUST|Huazhong University of Science and Technology�> 
+<meta name=�description� content=� Chen Wang | Associate Professor at HUST | wireless networking | Internet of Things | mobile computing | privacy | machine learning�> 
+
+		<TITLE>Welcome to Chen's Homepage</TITLE>
+
+		<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+
+		<LINK REL="StyleSheet" HREF="./style.css" TYPE="text/css">
+
+<link rel="shortcut icon" href="img/hust.ico" mce_href="hust.ico" type="image/x-icon">
+<link rel="icon" href="img/hust.ico" mce_href="hust.ico" type="image/x-icon">
+<link rel="bookmark" href="img/hust.ico" mce_href="hust.ico" type="image/x-icon">
+
+<div href="#" id="BackToTop" title="Back to Top"><img src="img/top.png" alt="Back to Top"></div>
+    <script>
+        var d = document.getElementById("BackToTop");
+        var threshold = 277
+        function toggle(){
+          if (document.body.scrollTop > threshold)
+            d.style.display = 'block'
+          else
+            d.style.display = 'none'
+        }
+        window.addEventListener('scroll', toggle);   
+        d.addEventListener("click",function (e) {
+            e.preventDefault();
+            window.scrollTo(0, 0)
+        })
+    </script>
+    <style>
+      #BackToTop {
+        position: fixed;
+        bottom: 36px;
+        right: 127px;
+        font-size: 127px;
+        z-index: 7;
+        cursor: pointer;
+        background: #e9ebec;
+        display:none;
+    }    
+    </style>
+    
+
+<style> 
+
+  * html .wrapper {
+    height: 0.1%;
+  }
+
+  #onecolumn #main-content .wrapper {padding-left:0;}
+.STYLE2 {font-family: "Times New Roman", Times, serif}
+.STYLE3 {font-weight: bold; font-size: x-large;}
+.STYLE4 {font-size: small}
+.STYLE6 {font-size: x-large;}
+
+body {
+	margin-left: 16%;
+	margin-right: 16%;
+	margin-top: 0;
+	margin-bottom: 7%;
+	line-height: 177%;
+}
+
+body,td,th {
+	font-family: Times New Roman, Times, serif;
+}
+a:link {
+	color: #0000FF;
+}
+a:visited {
+	color: #0000FF;
+}
+h1 {
+	font-size: x-large;
+	color: #000000;
+}
+
+h1,h2,h3,h4,h5,h6 {
+	font-family: "Courier New", Courier, monospace;
+}
+.navigation {
+	font-size: 20px;
+}
+.STYLE2 .STYLE4 {
+	font-size: large;
+}
+.STYLE2 .STYLE6 strong {
+	font-family: "Times New Roman", Times, serif;
+}
+#large {
+	font-size: large;
+}
+.redcolor {
+	color: #F00;
+}
+
+	--> 
+
+	        </style>
+</HEAD>
+
+<!--<BODY BGCOLOR="#ffffff" TEXT="#000000" ALINK="#ff0000" id="top">-->
+<BODY style="background-image : url(img/bg.png);background-repeat : repeat-xy;">
+
+
+	<TABLE width="870" BORDER="0" CELLPADDING="0" CELLSPACING="0">
+			<TR>
+			  <TD width="208" height="336" ALIGN="right" VALIGN="middle" class="STYLE2"><br>			    
+			   <img src="Chen.jpg" width="227" height="295"></TD>
+			  <TD width="6" ALIGN="left" VALIGN="middle" class="STYLE2">&nbsp;</TD>
+			  <TD width="6" ALIGN="left" VALIGN="middle" class="STYLE2">&nbsp; </TD>
+			  <TD width="650" ALIGN="left" VALIGN="middle" class="STYLE2"><table width="648" border="0">
+		        <tr>
+		          <td width="642" height="190" colspan="2"><p class="STYLE6"><span style="line-height:40px"><strong>Chen Wang (&#29579;&#29723;)
+		            </strong></span><br>
+                    <span class="STYLE4 STYLE2"><em>Ph.D., 
+		               Associate Professor<br>
+		               IEEE&thinsp;/&thinsp;ACM&thinsp;/&thinsp;CCF Senior Member</em></span><br>
+                       <font size="5"><span class="STYLE4"><a href="http://eic.hust.edu.cn/" target="_blank"><br>
+		          School of Electronic Information and Communications</a><br>
+                      <a href="http://www.hust.edu.cn/" target="_blank">Huazhong University of Science and Technology<br></a>
+                  Wuhan, Hubei, 430074 P.R. China</span></font></td>
+	            </tr>
+		        <tr>
+			        <td colspan="2"></td>
+	            </tr>
+			      <tr>
+			        <td colspan="2"><font size="5"><span class="STYLE4">Email:&thinsp;&thinsp;&thinsp;dr.chen.wang@ieee.org</span></font><font size="5"><span class="STYLE4"> (for research)</span></font><font size="5"><span class="STYLE4"> <br>
+		    
+&emsp;&emsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;chenwang@hust.edu.cn</span></font><span class="STYLE4"> (for teaching)</span></td>
+		        </tr>
+			      <tr>
+			        <td colspan="2"><span class="STYLE4">Office:&thinsp;&thinsp;Room SW #204,  South #1 Building, HUST<br>
+			        </span></td>
+		        </tr>
+		        </table>
+		      </TD>
+	  </TR>
+    </TABLE> 
+	<hr align="left" width="100%" size="1" noshade>    
+<p class="navigation"><strong>[<a href="#Biography">Biography</a>]  [<a href="#Students">Students</a>] [<a href="#Grants">Grants</a>] [<a href="#Publications">Publications</a>] [<a href="#Awards">Awards</a>] [<a href="#Activities">Activities</a>]  [<a href="#Courses">Courses</a>]  [<a href="#Misc">Misc</a>]</strong></p> 
+
+
+<hr align="left" width="100%" size="1" noshade>
+           
+          <H1 align="left" CLASS="home-section STYLE2 STYLE6" id="Biography">Short Biography</H1> 
+          <p align="justify">	I am currently an Associate Professor at  School of Electronic Information and Communications, Huazhong University of Science and Technology (<a href="http://www.hust.edu.cn/" target="_blank">HUST</a>), P.&thinsp;R. China. I obtained my B.S. and Ph.D. degrees from  Department of Automation, Wuhan University (<a href="http://www.whu.edu.cn/" target="_blank">WHU</a>), P.&thinsp;R. China, in 2008 and 2013, respectively.  From Jun. 2013 to Jan. 2018, I was a  Post-Doctoral Research Fellow at Networked and Communication Systems Research Lab, HUST, working with <a href="https://hongbojiang2004.github.io/en/" target="_blank">Prof. Hongbo Jiang</a>.  I am broadly interested in Internet of Things, computational intelligence, data mining, and mobile computing, with a recent focus on three major research fronts:
+<ul></p>
+  <li><em>Adversarial patterns and countermeasures in machine learning models.</em></li>
+            <li><em>Privacy enhancing technologies in wireless/mobile systems. </em></li>
+            <li><em>Big data analytics in the context of spatio-temporal data, social network data, etc.</em></li>
+          </ul> 
+          
+          
+          <p align="justify"><strong class="redcolor">Openings. </strong>I am looking for highly self-motivated Ph.D./M.S./undergraduate students who are strongly committed to cutting-edge research on <strong><em>machine learning and data privacy</em></strong>. Solid background in programming or mathematics is a big plus. If you are interested, feel free to drop me an email at <a href="mailto:dr.chen.wang@ieee.org">dr.chen.wang@ieee.org</a>.</p> 
+          
+          
+<hr align="left" width="100%" size="1" noshade>
+<h1 align="left" CLASS="home-section STYLE2 STYLE6" id="Students">Current Students <span id="large">[<a href="students.html" target="_blank">Full List</a>]</span></h1>
+<ul>
+  <li><strong>Ph.D. Students</strong>
+    <ul>
+      <li>Jian Chen (2018~,&nbsp;M.S. from HUST)</li>
+      <li>Gaoyang Liu (2016~,&nbsp;B.S. from HUST), previously advised by Prof. Hongbo Jiang</li>
+    </ul>
+  </li>
+  <li><strong>M.S. Students</strong>
+    <ul>
+      <li>Weiling Wu (2020~, B.S. from WHUT)</li>
+      <li>Tianlong Xu (2020~, B.S. from WHUT)</li>
+      <li>Mengting Yuan (2020~, B.S. from WHUT)</li>
+      <li>Fengxiang Ding (2019~, B.S. from CSU)</li>
+      <li>Ruxue Wen (2019~, B.S. from WHUT)</li>
+      <li>Xuxin Zhang (2019~, B.S. from UESTC)</li>
+      <li>Jianxiong Zhao (2019~, B.S. from HUST)</li>
+      <li>Meijun Li (2018~, B.S. from WHUT)</li>
+      <li>Yutong Li (2018~, B.S. from HUST)</li>
+      <li>Xinkui Wu (2018~, B.S. from WHUT)</li>
+      <li>Ke Zhang (2018~, B.S. from ZZULI)</li>
+      <li>Wuwu Liu (2017~, B.S. from WHUT), previously advised by Prof. Hongbo Jiang</li>
+    </ul>
+  </li>
+  <li><strong>Undergraduate Students</strong>
+    <ul>
+      <li>Qiyu Bu  (2019~ )</li>
+      <li>Hongyu Huang  (2019~ )</li>
+      <li>Ziming Huang  (2019~ )</li>
+      <li>Zhenxing Li  (2019~ )</li>
+      <li>Yipeng Liu  (2019~ )</li>
+      <li>Ziyan Qu (2019~ )</li>
+      <li>Danyang Wang  (2019~ )</li>
+      <li>Shijie Wang  (2019~ )</li>
+      <li>Xiangheng Zeng  (2019~ )</li>
+      <li>Ying Zhang  (2018~ )</li>
+    </ul>
+  </li>
+</ul>
+<hr align="left" width="100%" size="1" noshade>
+
+<h1 align="left" CLASS="home-section STYLE2 STYLE6"><strong id="Grants">Research Grants</strong></h1>
+    <ul>
+      <li class="left-right">
+        <div align="justify">
+          <div align="justify">National Natural Science Foundation of China (General Program), <em>Principle Investigator</em>, 2019.1  &ndash; 2022.12</div></div></li>
+      <li class="left-right">
+        <div align="justify">
+          <div align="justify">Fundamental Research Funds for the Central Universities of China, <em>Principle Investigator</em>, 2018.1  &ndash; 2020.12      </div>
+        </div>
+      </li>
+      <li class="left-right">
+        <div align="justify">National Natural Science Foundation of China (Youth Program), <em>Principle Investigator</em>, 2016.1  &ndash; 2018.12</div>
+      </li>
+        <li class="left-right">
+          <div align="justify">China Postdoctoral Science Foundation (Special Grant), <em>Principle Investigator</em>, 2017.6  &ndash; 2017.12</div>
+        </li>
+      <li class="left-right">
+        <div align="justify">China Postdoctoral Science Foundation (General Program, First Class),  <em>Principle Investigator</em>, 2014.9  &ndash; 2017.9</div>
+      </li>
+      <li class="left-right">
+        <div align="justify">CCF-Tencent   Rhino-Bird    Creativity Fund, <em>Principle Investigator</em>, 2016.9  &ndash; 2017.8</div>
+      </li>
+      <li class="left-right">
+        <div align="justify">Self-Research Program for Graduate Students of Wuhan University, <em>Principle Investigator</em>, 2011.6  &ndash; 2013.5</div>
+      </li>
+      <li class="left-right">
+        <div align="justify">Self-Research Program for Ph.D Candidates of Wuhan University, <em>Principle Investigator</em>, 2009.9  &ndash; 2010.12</div>
+      </li>
+      <li class="left-right">
+        <div align="justify">National Innovative Experiments Program for Undergraduates,  <em>Principle Investigator</em>, 2007.3  &ndash; 2008.6</div>
+      </li>
+    </ul> 
+    
+
+<hr align="left" width="100%" size="1" noshade>
+<h1 align="left" CLASS="home-section STYLE2 STYLE6" id="Publications">Selected Publications <span id="large">[<a href="publications.html" target="_blank">Full List</a>]</span></h1>
+    <ul>
+      <li>
+      <div align="justify">[<strong>TSUSC</strong>] <u>Chen Wang</u>, Gaoyang Liu,  Haojun Huang, Weijie Feng, Kai Peng, Lizhe Wang. <a href="https://ieeexplore.ieee.org/document/8770147"  target="_blank">MIASec: Enabling Data Indistinguishability  against Membership Inference Attacks in MLaaS</a>. <em>IEEE Transactions on  Sustainable Computing</em>. Accepted for publication. DOI: 10.1109/TSUSC.2019.2930526.</div></li>      
+      <li> 
+      <div align="justify">[<strong>WINE</strong>] Shaohua Wan, Meijun Li, Gaoyang Liu, <u>Chen Wang</u>*. <a href="https://link.springer.com/article/10.1007%2Fs11276-019-02195-0" target="_blank">Recent Advances in Consensus Protocols for Blockchain: A Survey</a>. <em>ACM/Springer Wireless Networks</em>. Accepted for publication. DOI: 10.1007/s11276-019-02195-0.</div>
+      </li>
+      <li>        
+      <div align="justify">          [<strong>TCSS</strong>] Gaoyang Liu, <u>Chen Wang</u>, Kai Peng, Haojun Huang, Yutong Li, Wenqing Cheng.     <a href="publications/SocInf-TCSS19.pdf"  target="_blank">SocInf: Membership Inference Attacks on Social Media Health Data with Machine Learning</a>. <em>IEEE Transactions on  Computational Social Systems</em>. 2019, 6(5): 907-921.</div></li>
+      <li>
+        <div align="justify">[<strong>MDM</strong>] Gaoyang Liu, Rui Zhang, <u>Chen Wang</u>*, Ling Liu. <a href="publications/GPS-Probe-MDM19.pdf" target="_blank">Synchronization-Free GPS Spoofing Detection with Crowdsourced Air Traffic Control Data</a>. In <em>Proc. of 20th IEEE International Conference on Mobile Data Management</em>, Hong Kong, China, 2019. (<a href="publications/GPS-Probe-MDM19.pptx" target="_blank">slides</a>)</div>
+      </li>
+      <li>
+        <div align="justify">[<strong>IoT-J</strong>] Ping Zhao, Hongbo Jiang, <u>Chen Wang</u>*,  Haojun Huang, Yang Yang, Gaoyang Liu. <a href="publications/k-Anonymity-IoT-J19.pdf" target="_blank">On the Performance of <em>k</em>-Anonymity against Inference Attacks with Background Information</a>. <em>IEEE Internet of Things Journal</em>. 2019, 6(1): 808-819.</div>
+      </li>
+      <li>
+        <div align="justify">[<strong>ToN</strong>] Hongbo Jiang, Ping Zhao, <u>Chen Wang</u>*. <a href="publications/RobLoP-ToN18.pdf" target="_blank">RobLoP: Towards Robust Privacy Preserving against Location Dependent Attacks in Continuous LBS Queries</a>. <em>IEEE/ACM Transactions on  Networking</em>. 2018, 26(2): 1018-1032.</div>
+      </li>
+      <li>
+        <div align="justify">[<strong>IoT-J</strong>] Ping Zhao, Jie Li, Fanzi Zeng, Fu Xiao, <u>Chen Wang</u>*,  Hongbo Jiang. <a href="publications/ILLIA-IoT-J18.pdf" target="_blank">ILLIA: Enabling <em>k</em>-Anonymity-Based Privacy Preserving against Location Injection Attacks in Continuous LBS Queries</a>. <em>IEEE Internet of Things Journal</em>. 2018, 5(2): 1033-1042.</div>
+      </li>
+      <li>
+        <div align="justify">[<strong>JSEN</strong>] Kongyang Chen, <u>Chen Wang</u>*, Zhimeng Yin, Hongbo Jiang, Guang Tan. <a href="publications/Slide-JSEN18.pdf" target="_blank">Slide:  Towards Fast and Accurate Mobile Fingerprinting for Wi-Fi Indoor Positioning  Systems</a>. <em>IEEE Sensors Journal</em>, 2018, 18(3):  1213-1223.</div>
+      </li>
+      <li>
+        <div align="justify"> [<strong>HPCC</strong>] Ping Zhao, Hongbo Jiang, <u>Chen Wang</u>*, Haojun Huang. <a href="publications/k-Anonymity-HPCC18.pdf" target="_blank">Non-Asymptotic Bound on the Performance of <em>k</em>-Anonymity against Inference Attacks</a>. In <em>Proc. of 20th IEEE International Conference on High Performance Computing and Communications</em>, Exeter, UK, 2018.</div>
+      </li>
+      <li>
+        <div align="justify">[<strong>TMC</strong>] <u>Chen Wang</u>, Hongzhi Lin, Rui Zhang, Hongbo Jiang. <a href="publications/SEND-TMC17.pdf" target="_blank">SEND:  A Situation-Aware Emergency Navigation Algorithm with Sensor Networks</a>. <em>IEEE Transactions on Mobile Computing</em>. 2017, 16(4): 1149-1162.</div>
+      </li>
+      <li>
+        <div align="justify">[<strong>TMC</strong>] <u>Chen Wang</u>, Hongzhi Lin, Hongbo Jiang. <a href="publications/CANS-TMC16.pdf" target="_blank">CANS: Towards Congestion-Adaptive and Small Stretch Emergency Navigation with Wireless Sensor Networks</a>. <em>IEEE Transactions on Mobile  Computing</em>. 2016,  15(5): 1077-1089.</div>
+      </li>
+      <li>
+        <div align="justify">[<strong>ToN</strong>] <u>Chen Wang</u>, Hongbo Jiang, Tianlong Yu, John C.S. Lui. <a href="publications/SLICE-ToN16.pdf" target="_blank">SLICE: Enabling Greedy Routing in High Genus 3-D WSNs With General Topologies</a>. <em>IEEE/ACM Transactions on  Networking</em>. 2016, 24(4): 2472-2484.</div>
+      </li>
+      <li>
+        <div align="justify">[<strong>TOSN</strong>] <u>Chen Wang</u>, Wei Wei, Hongzhi Lin, Hongbo  Jiang, John C.S. Lui. <a href="publications/BLOW-UP-TOSN16.pdf" target="_blank">BLOW-UP: Towards Distributed and Scalable Space Filling  Curve Construction in 3D Volumetric WSNs</a>. <em>ACM  Transactions on Sensor Networks</em>. 2016, 12(4): 30:1-30:20.</div>
+      </li>
+      <li>
+        <div align="justify">[<strong>TOSN</strong>] <u>Chen Wang</u>, Hongbo Jiang, Yan Dong. <a href="publications/SFC-TOSN16.pdf" target="_blank">Connectivity-based  Space Filling Curve Construction Algorithms in High Genus 3D Surface WSNs</a>. <em>ACM  Transactions on Sensor Networks</em>. 2016, 12(3): 22:1-22:29.</div>
+      </li>
+      <li>
+        <div align="justify">[<strong>INFOCOM</strong>] <u>Chen Wang</u>, Hongbo Jiang. <a href="publications/SURF-INFOCOM15.pdf" target="_blank">SURF: A  Connectivity-based Space Filling Curve Construction Algorithm in High Genus 3D  Surface WSNs</a>. In <em>Proc. of 34th IEEE International Conference on Computer Communications</em>, HongKong, China, 2015. (<a href="publications/SURF-INFOCOM15.ppt" target="_blank">slides</a>)</div>
+      </li>
+      <li>
+        <div align="justify">[<strong>WINE</strong>] <u>Chen Wang</u>, Hongzhi Lin, Hongbo Jiang. <a href="publications/Outlier-WINET14.pdf" target="_blank">Trajectory-based  Multi-dimensional Outlier Detection in Wireless Sensor Networks using Hidden  Markov Models</a>. <em>ACM/Springer Wireless  Networks</em>, 2014, 20(8): 2409-2418. </div>
+      </li>
+      <li>
+      <div align="justify">[<strong>ICON</strong>] <u>Chen Wang</u>, Yanjun Fang, Hongmei Zhang. <a href="publications/UWASNEnergy-ICON12.pdf" target="_blank">On Optimizing the Transmission Power of Multi-hop Underwater Acoustic Networks</a>. In <em>Proc. of 18th IEEE International Conference on Networks</em>, Singapore, 2012.</div>
+      </li>
+</ul> 
+      
+
+<hr align="left" width="100%" size="1" noshade>
+<h1 align="left" CLASS="home-section STYLE2 STYLE6" id="Awards">Honors and Awards</h1>
+    <ul>
+      <!--<li>Hunan Provincial Natural Science Award (2nd Prize, 3/3), 2018</li> -->
+      <li>Excellent Undergraduate Class Advisor, Student Affairs Department, HUST, 2019</li>
+      <li>Top Peer Reviewer Award, Web of Science Group, Clarivate Analytics, 2019</li>
+      <li>Natural Science Award (Second Prize, 3/3), Hunan Provincial Government, 2018</li>
+      <li>100 Representative Grantees, China Postdoctoral Science Foundation, 2018</li>
+      <!--<li>Outstanding Post-Doctoral Research Fellow, HUST, 2018</li> -->
+      <li>Distinguished ACM China Lecturer,  ACM TURC 2017</li>
+      <li>Graduate Academic Innovation Award, WHU, 2013</li>
+      <li>Graduate Research Travel Grant, WHU, 2012</li>
+      <!--<li>Excellent Graduate Scholarship, WHU, 2010-2012</li> -->
+      <li>Excellent National Innovative Experiments Program for Undergraduates, WHU, 2008</li>
+      <!--<li>Excellent Undergraduate Scholarship, WHU, 2005-2007</li> --> 
+</ul>
+      
+<hr align="left" width="100%" size="1" noshade>
+<h1 align="left" CLASS="home-section STYLE2 STYLE6"><strong id="Activities">Professional Activities</strong></h1>
+    <ul>
+      <li><strong>Membership</strong>
+        <ul>
+          <li>Senior Member, IEEE (2019-present); Member, IEEE (2013-2018); Student Member (2010-2013)</li>
+          <li>Senior Member, ACM (2019-present); Member, ACM (2014-2018)</li>
+          <li>Senior Member, CCF (2019-present); Member, CCF (2014-2018)</li>
+        </ul>
+      </li>
+      
+      <li><strong>Editorial Board Member</strong>
+        
+  <ul>
+    <!--<li><a href="https://www.igi-global.com/journal/international-journal-information-security-privacy/1096">International Journal of Information Security and Privacy</a> (Editorial Review Board, 2019-present)</li> -->   
+    <li>International Journal of Intelligent Networks (2019-present)</li>
+    <li>International Journal of Wireless Communications and Mobile Computing (2016-present)</li>    
+    <li>International Journal of Computer and Electrical Engineering  (2012-2014)</li>
+        </ul>
+      </li>
+      
+      <li><strong>Conference Organizing Committee  Member</strong>
+        <ul>
+          <li>ICBCT 2019-2020 (Program Chair),  International Conference on Blockchain Technology</li>
+          <li>ACM TURC 2018 (Web/WeChat Co-Chair), ACM Turing Celebration Conference - China</li>
+          <li>WCSN 2018 (Chairman), 5th International Conference on Wireless Communication and Sensor Network</li>
+          <li>ACM TURC 2017 (Web Co-Chair), ACM Turing 50th Celebration Conference - China</li>
+          <li> WCSN 2017 (Program Chair), 4th International Conference on Wireless Communication and Sensor Network</li>
+        </ul>
+      </li>
+      
+      <li><strong>Conference Program Committee Member</strong>
+        <ul>
+          <li><strong>2020</strong>: ICIN, SigTelCom, ICCSN, ICCAE, CSNT, SEAS</li>
+          <li><strong>2019</strong>: WCNC, WF-5G, SigTelCom, ICCT, 3ICT, MENACOMM,  DISP, ICCC, ICCSN</li>
+          <li><strong>2018</strong>: WCNC, HPCC, WF-5G, ICCT, ISCC, BDTA, ICCC, ICCSN, ICCBN</li>
+          <li><strong>2017</strong>: WCNC, GreenCom, ICCT, ICCC, ICCSN, ICCBN </li>
+          <li><strong>2016</strong>: WiCOM, ICCC, WCSN, ISAI, SIMA</li>
+          <li><strong>2015</strong>: ICSN, CENet, CSMA, ISCC</li>
+          <li><strong>2014</strong>: ChinaCom, CENet, WCSN</li>
+        </ul>
+      </li>
+      
+      <li><strong>Journal Reviewer</strong>
+        <ul>
+          <li>ACM Transactions on Internet Technology</li>
+          <li>IEEE/ACM Transactions on Networking</li>
+          <li>IEEE Transactions on Mobile Computing</li>
+          <li>IEEE Transactions on Computers</li>
+          <li>IEEE Transactions on Green Communications and Networking</li>
+          <li>IEEE Transactions on Cognitive Communications and Networking</li>
+          <li>IEEE Network Magazine</li>
+          <li>IEEE Internet of Things Journal</li>
+          <li>IEEE Sensors Journal</li>
+          <li>IEEE Access</li>
+          <li>Proceedings on Privacy Enhancing Technologies (De Gruyter Open)</li>
+          <li>Journal of Network and Computer Applications (Elsevier)</li>
+          <li>Future Generation Computer Systems (Elsevier)</li>
+          <li>Wireless Networks (ACM/Spinger)</li>
+          <li>CCF Transactions on Networking (CCF/Springer)</li>
+          <li>Wireless Personal Communications (Springer)</li>
+          <li>Multimedia Tools and Applications (Springer)</li>
+          <li>EURASIP Journal on Wireless Communications and Networking (Springer)</li>
+          <li>Journal of Ambient Intelligence and Humanized Computing (Springer)</li>
+          <li>Transactions in GIS (Wiley)</li>
+          <li>Transactions on Emerging Telecommunications Technologies (Wiley)</li>
+          <li>Concurrency and Computation: Practice and Experience (Wiley)</li>
+          <li>Wireless Communications and Mobile Computing (Wiley/Hindawi)</li>
+          <li>Security and Communication Networks (Wiley/Hindawi)</li>
+          <li>The Computer Journal (Oxford Academic)</li>
+          <li>International Journal of Information Security and Privacy (IGI Global)</li>
+          <li>China Communications (CIC/IEEE)</li>
+          <li>Ad Hoc & Sensor Wireless Networks (Old City Publishing)</li>
+          <li>International Journal of Sensor Networks (Inderscience)</li>
+          <li>International Journal of Advanced Robotic Systems (SAGE)</li>
+          <li>Sensors (MDPI)</li>
+          <li>Computers (MDPI)</li>
+          <li>Informatics (MDPI)</li>
+          <li>Future Internet (MDPI)</li>
+        </ul>
+      </li>
+    </ul>
+    
+    
+<hr align="left" width="100%" size="1" noshade>
+	
+<h1 align="left" CLASS="home-section STYLE2 STYLE6" id="Courses">Courses</h1>
+<ul> 
+  
+<li><strong> Internet of Things</strong>
+  <ul>
+    <li>Undergraduate Course, Spring 2019       </li>
+    <li>Textbook: <a href="http://tns.thss.tsinghua.edu.cn/iotbook/" target="_blank">Introduction to Internet of Things (3rd Edition)</a><a href="http://www.cs.sjtu.edu.cn/~wang-xb/wireless_new/index.html" target="_blank"></a></li>
+    <li>Reference: <a href="https://www.springer.com/cn/book/9781430257400" target="_blank">Rethinking the Internet of Things: A Scalable Approach to Connecting Everything</a></li></ul>
+
+
+<!--<li><strong>Information and Network Security</strong>
+  <ul>
+    <li>Graduate Course, Spring 2019</li>
+    <li>Textbook: <a href="http://williamstallings.com/Cryptography/" target="_blank">Cryptography and Network Security: Principles and Practice (6th Edition)</a></li>
+    <li>Reference: <a href="https://www.sciencedirect.com/book/9780128046296/mobile-security-and-privacy" target="_blank">Mobile Security and Privacy: Advances, Challenges and Future Research Directions</a></li>
+  </ul> -->
+
+
+<li>  <strong>Mobile Internet</strong>
+  <ul>
+    <li>Undergraduate Course, Fall 2018</li>
+    <li>Textbook: <a href="http://www.cs.sjtu.edu.cn/~wang-xb/wireless_new/index.html" target="_blank">Introduction to Mobile Internet (2nd Edition)</a></li>
+    <li>Reference: <a href="http://www.cmpedu.com/books/book/2065342.htm" target="_blank">Mobile Internet : Principles, Technologies and Applications (2nd Edition)</a></li>
+  </ul> 
+  
+  
+<li><strong>Wireless Sensor Networks</strong>
+  <ul>
+    <li>Graduate Course, Fall 2018, 2019</li>
+    <li>Textbook: <a href="https://onlinelibrary.wiley.com/doi/book/10.1002/9780470515181" target="_blank">Wireless Sensor Networks</a></li>
+    <li>Reference: <a href="https://www.wiley.com/en-us/Fundamentals+of+Wireless+Sensor+Networks%3A+Theory+and+Practice-p-9780470975688" target="_blank">Fundamentals of Wireless Sensor Networks: Theory and Practice</a></li>
+  </ul> 
+  
+
+ 
+<!--<li>
+<strong>Fundamentals of Digital Electronics</strong>
+  <ul>
+    <li>MOOC (<a href="http://www.icourse163.org/course/HUST-1001909001" target="_blank">website</a>), Spring 2018</li>
+    <li>Textbook: Fundamentals of Electronics: Digital Part (6th Edition)</li>  
+</ul> -->
+
+  
+</ul>
+ 
+ 
+
+<hr align="left" width="100%" size="1" noshade>
+	
+<h1 align="left" CLASS="home-section STYLE2 STYLE6" id="Misc">Misc</h1>
+    <ul>
+      <!--<li><a href="https://genomeprivacy.org/" target="_blank">GenomePrivacy</a></li> -->
+      <li><a href="http://ct.cswu.me/" target="_blank">Upcoming Conferences</a></li>
+      <li><a href="http://www.ccf.org.cn/xspj/gyml/" target="_blank">CCF Publication Ranking</a></li>
+      <li><a href="https://beta.dataverse.org/custom/DifferentialPrivacyPrototype/" target="_blank">Private Data Sharing Interface</a></li>
+      <li><a href="http://www.cs.cmu.edu/afs/cs.cmu.edu/user/mleone/web/how-to.html" target="_blank">Advice on Research and Writing</a></li>
+      <li><a href="https://epfl-lts2.github.io/gspbox-html/" target="_blank">Graph Signal Processing Toolbox</a></li>
+      <li><a href="http://www.cs.ucsb.edu/~almeroth/conf/stats/" target="_blank">Networking Conferences Statistics</a></li>
+      <li><a href="http://snap.stanford.edu/snap/index.html" target="_blank">Stanford Network Analysis Platform</a></li>
+      <li><a href="http://jeffhuang.com/best_paper_awards.html">Best Paper Awards in Computer Science</a></li>
+      <li><a href="https://privacytools.seas.harvard.edu/" target="_blank">Harvard University Privacy Tools Project</a></li>
+      <li><a href="https://www.petrashub.org/" target="_blank">PETRAS: Internet of Things Research Hub</a></li>
+      <li><a href="https://epfl-lts2.github.io/gspbox-html/" target="_blank"></a><a href="http://www.stat.cmu.edu/~cshalizi/ADAfaEPoV/" target="_blank">Advanced Data Analysis from an Elementary Point of View</a></li>
+      <li><a href="https://stearnslab.yale.edu/some-modest-advice-graduate-students"  target="_blank">Some Modest Advice for Graduate Students</a> (<a href="http://blog.sciencenet.cn/blog-720485-784084.html" target="_blank">Chinese Version</a>)</li>
+</ul>
+
+
+<p>&nbsp;</p>
+<p align="center" class="STYLE7">&nbsp;</p>
+<!--<p align="right" class="STYLE7"><a href="#top">Back to Top</a></p> -->
+<p align="right" class="STYLE7"><em>Last updated: 2019-11-17</em><br>
+</p>
+</BODY>
+</HTML>
